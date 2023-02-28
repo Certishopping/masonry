@@ -1,6 +1,6 @@
 {
-  "name": "masonry-layout",
-  "version": "4.2.2",
+  "name": "@certishopping-assets/masonry-layout",
+  "version": "4.2.3",
   "description": "Cascading grid layout library",
   "main": "masonry.js",
   "dependencies": {
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Certishopping/masonry.git"
+    "url": "git+https://github.com/Certishopping/masonry.git"
   },
   "keywords": [
     "DOM",
