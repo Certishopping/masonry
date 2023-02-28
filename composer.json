@@ -1,14 +1,14 @@
 {
-  "name": "desandro/masonry",
+  "name": "certishopping-assets/masonry",
   "description": "Cascading grid layout library",
   "type": "component",
   "keywords": ["javascript", "library", "grid", "browser", "dom", "layout", "outlayer"],
-  "homepage": "https://masonry.desandro.com",
+  "homepage": "https://github.com/Certishopping/imagesloaded",
   "license": "MIT",
   "authors": [
     {
-      "name": "David DeSandro",
-      "homepage": "http://desandro.com/",
+      "name": "Certishopping",
+      "homepage": "https://github.com/Certishopping/imagesloaded",
       "role": "developer"
     }
   ]

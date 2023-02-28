@@ -1,9 +1,8 @@
 /*!
- * Masonry v4.2.2
+ * Frok from Masonry v4.2.2 
  * Cascading grid layout library
- * https://masonry.desandro.com
  * MIT License
- * by David DeSandro
+ * by Certishopping
  */
 
 ( function( window, factory ) {
