@@ -11,7 +11,7 @@
   if ( typeof define == 'function' && define.amd ) {
     // AMD
     define( [
-        'outlayer/outlayer',
+        '@certishopping-assets/outlayer/outlayer',
         'get-size/get-size'
       ],
       factory );
